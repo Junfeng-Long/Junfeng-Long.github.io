@@ -1,0 +1,12 @@
+@ARTICLE{10023542,
+  author={Chen, Haoning and Long, Junfeng and Ma, Shuai and Tang, Mingjian and Wu, Youlong},
+  journal={IEEE Transactions on Communications}, 
+  title={On the Optimality of Data Exchange for Master-Aided Edge Computing Systems}, 
+  year={2023},
+  volume={71},
+  number={3},
+  pages={1364-1376},
+  keywords={Computational modeling;Edge computing;Servers;Load modeling;Task analysis;Symbols;Encoding;Distributed computing;MapReduce;computation;communication},
+  doi={10.1109/TCOMM.2023.3238373}
+  }
+
