@@ -201,7 +201,7 @@
       <h3 class="title is-4">Difference between Ours and Domain Randomization</h3>
     </div>
     <div class="content has-text-centered">
-      <img width="75%" src="./static/images/teaser_hinf.png">
+      <img width="75%" src="./static/images/teaser_h_inf.pdf">
     </div>
 
     <div class="columns is-centered has-text-centered">
@@ -296,27 +296,31 @@
 
     <h3 class="title is-4"> The robot on super slippery plane(covered by oil, left: ours, right: built-in MPC).</h3>
     <div class="columns is-centered">
-      <!-- Visual Effects. -->
+
       <div class="column">
         <div class="content">
-          <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/slippery_ours_body.mp4"
-                    type="video/mp4">
-          </video>
-        </div>
-        <div class="content">
-          <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/slippery_ours_leg_body.mp4"
-                    type="video/mp4">
-          </video>
-        </div>
-        <div class="content">
-          <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/slippery_mpc.mp4"
-                    type="video/mp4">
+          <video id="ours-body" autoplay controls muted loop playsinline height="100%">
+            <source src="./static/videos/slippery_ours_body.mp4" type="video/mp4">
           </video>
         </div>
       </div>
+
+      <div class="column">
+        <div class="content">
+          <video id="ours-body-leg" autoplay controls muted loop playsinline height="100%">
+            <source src="./static/videos/slippery_ours_leg_body.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="content">
+          <video id="mpc" autoplay controls muted loop playsinline height="100%">
+            <source src="./static/videos/slippery_mpc.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+
   </div>
 </section>
 
