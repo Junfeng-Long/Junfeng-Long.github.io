@@ -96,7 +96,7 @@
                     <div class="publication-links">
                          <!-- PDF link -->
                       <span class="link-block">
-                        <a href="./static/pdfs/HINF.pdf" target="_blank"
+                        <a href="./static/pdfs/hinf.pdf" target="_blank"
                         class="external-link button is-normal is-rounded is-dark">
                         <span class="icon">
                           <i class="fas fa-file-pdf"></i>
@@ -168,21 +168,6 @@
 <!-- End teaser video -->
 
 <!-- Paper abstract -->
-<!-- <section class="section hero is-light">
-  <div class="container is-max-desktop">
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Abstract</h2>
-        <div class="content has-text-justified">
-          <p>
-            This paper presents a Hybrid Internal Model (HIM) based method for legged locomotion control in quadruped robots. The method aims to address the limitations of existing learning-based locomotion control paradigms, which suffer from information losses, noisy observations, sample efficiency, and difficulties in developing general locomotion policies for robots with different sensor configurations. The proposed HIM method leverages joint encoders and an Inertial Measurement Unit (IMU) as the only sensors for predicting robot states. Our framework consists of two components: the information extractor HIM and the policy network. Unlike previous methods that explicitly model environmental observations such as ground elevation, friction, restitution, etc, HIM only explicitly estimates velocity and encodes other environmental dynamics-related properties as an implicit latent embedding, we call this dynamics-aware latent since it represents the dynamics information of the robot system in certain environments. The dynamics-aware latent is learned through contrastive learning, which enhances robustness and adaptability in disturbed and unpredictable environments. The proposed method is validated through simulations in different terrains and real-world experiments on the Unitree robots. The results demonstrate that HIM achieves substantial agility over challenging terrains with minimal sensors and fast convergence.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-<!-- End paper abstract -->
 <section class="section">
   <div class="container is-max-desktop">
     <!-- Abstract. -->
@@ -207,15 +192,16 @@
     </div>
   </div>
 </section>
+<!-- End paper abstract -->
 
 <section class="section">
   <div class="container is-max-desktop">
 
     <div class="columns is-centered has-text-centered">
-      <h3 class="title is-4">Difference between Domain Randomization</h3>
+      <h3 class="title is-4">Difference between Ours and Domain Randomization</h3>
     </div>
     <div class="content has-text-centered">
-      <img width="75%" src="./static/images/teaser_hinf.pdf">
+      <img width="75%" src="./static/images/teaser_hinf.jpg">
     </div>
 
     <div class="columns is-centered has-text-centered">
@@ -248,21 +234,7 @@
         </div>
       </div>
     </div>
-      <!-- <div class="content has-text-centered">
-        <video id="replay-video"
-               controls
-               muted
-               preload
-               playsinline
-               width="75%">
-          <source src="./static/videos/demo.mov"
-                  type="video/mov">
-        <p>
-          The overview of HIMLoco.
-        </p>
-        </video>
-      </div> -->
-      <!--/ Pipeline -->
+
       </div>
     </div>
   </div>
@@ -441,7 +413,7 @@
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
       <pre><code>
-        @article{long2023himloco,
+        @article{long2024hinf,
           author    = {Junfeng Long, Wenye Yu, Quanyi Li, Zirui Wang, Dahua Lin, Jiangmiao Pang},
           title     = {Learning H-infinity Locomotion Control},
           journal   = {Arxiv},
