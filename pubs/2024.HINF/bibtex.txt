@@ -1,6 +1,8 @@
-@inproceedings{long2023hinf,
-  author    = {Junfeng Long, Wenye Yu, Quanyi Li, Zirui Wang, Dahua Lin, Jiangmiao Pang},
-  title     = {Learning H-infinity Locomotion Control},
-  booktitle   = {Arxiv},
-  year      = {2024},
+@misc{long2024learning,
+      title={Learning H-Infinity Locomotion Control}, 
+      author={Junfeng Long and Wenye Yu and Quanyi Li and Zirui Wang and Dahua Lin and Jiangmiao Pang},
+      year={2024},
+      eprint={2404.14405},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
