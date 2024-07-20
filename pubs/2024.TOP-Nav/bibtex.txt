@@ -1,0 +1,6 @@
+@article{ren2024top,
+  title={TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation},
+  author={Ren, Junli and Liu, Yikai and Dai, Yingru and Long, Junfeng and Wang, Guijin},
+  journal={arXiv preprint arXiv:2404.15256},
+  year={2024}
+}

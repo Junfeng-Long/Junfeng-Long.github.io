@@ -1,0 +1,4 @@
+@misc{grutopia,
+Author = {Hanqing Wang and Jiahe Chen and Wensi Huang and Qingwei Ben and Tai Wang and Boyu Mi and Tao Huang and Siheng Zhao and Yilun Chen and Sizhe Yang and Peizhou Cao and Wenye Yu and Zichao Ye and Jialun Li and Junfeng Long and Zirui Wang and Huiling Wang and Ying Zhao and Zhongying Tu and Yu Qiao and Dahua Lin and Jiangmiao Pang},
+Title = {GRUtopia: Dream General Robots in a City at Scale},
+Year = {2024},}
