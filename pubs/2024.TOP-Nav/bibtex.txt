@@ -1,6 +1,7 @@
-@article{ren2024top,
-  title={TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation},
-  author={Ren, Junli and Liu, Yikai and Dai, Yingru and Long, Junfeng and Wang, Guijin},
-  journal={arXiv preprint arXiv:2404.15256},
-  year={2024}
+@inproceedings{
+  ren2024topnav,
+  title={{TOP}-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation},
+  author={Junli Ren and Yikai Liu and Yingru Dai and Junfeng Long and Guijin Wang},
+  booktitle={8th Annual Conference on Robot Learning},
+  year={2024},
 }
