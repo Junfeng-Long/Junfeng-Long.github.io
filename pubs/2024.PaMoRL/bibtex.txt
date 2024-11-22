@@ -1,0 +1,7 @@
+@inproceedings{
+  wang2024parallelizing,
+  title={Parallelizing Model-based Reinforcement Learning Over the Sequence Length},
+  author={ZiRui Wang and Yue DENG and Junfeng Long and Yin Zhang},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024},
+}
